@@ -116,7 +116,7 @@ RESULTADO:
 
 E NA CLASSE TBM 
 
-![Untitled](Acesso%20a%CC%80%20dados%20com%20NET,%20C#,%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%202.png)
+![Untitled](Acesso%20à%20dados%20com%20NET%2C%20C%23%2C%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%202.png)
 
 SE DEIXAMOS COM NOME DIFERENTE O DAPPER VAI GERAR ERRO, MAS ISSO É SO UMA DICA
 
@@ -184,13 +184,13 @@ namespace BaltaDataAccess {
 
 RESULTADO
 
-![Untitled](Acesso%20a%CC%80%20dados%20com%20NET,%20C#,%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%203.png)
+![Untitled](Acesso%20à%20dados%20com%20NET%2C%20C%23%2C%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%203.png)
 
 ---
 
 # PARA QUE TUDO ISSO POSSA ACONTECER O DOCKER TEM QUE ESTA FUNCIONANDO E RODANDO O SERVIDOR DE CONEXÃO
 
-![Untitled](Acesso%20a%CC%80%20dados%20com%20NET,%20C#,%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%204.png)
+![Untitled](Acesso%20à%20dados%20com%20NET%2C%20C%23%2C%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%204.png)
 
 ---
 
@@ -744,7 +744,7 @@ namespace conectionSql.Models {
 
 ```
 
-![Acesso%20a%CC%80%20dados%20com%20NET,%20C#,%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%205.png](Acesso%20a%CC%80%20dados%20com%20NET,%20C#,%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%205.png)
+![Acesso%20à%20dados%20com%20NET%2C%20C%23%2C%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%205.png](Acesso%20à%20dados%20com%20NET%2C%20C%23%2C%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%205.png)
 
 ---
 
@@ -1479,7 +1479,3 @@ namespace BaltaDataAccess {
 ```
 
 ---
-
-ESTAMOS NO MODULO 4 DO CURSO VOU DEIXAR O CAMINHO DO PROJETO REALIZADO AQUI E TODA DOCUMENTAÇÃO
-
-[https://www.notion.so/SQL-CRUD-0cfadf2d4b6e4b9a80a34bff624de25b?pvs=4](https://www.notion.so/SQL-CRUD-vers-o-beta-0cfadf2d4b6e4b9a80a34bff624de25b?pvs=21)
