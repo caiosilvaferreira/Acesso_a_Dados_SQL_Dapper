@@ -106,13 +106,13 @@ namespace conectionSql.Models {
 
 RESULTADO: 
 
-![Untitled](Acesso%20a%CC%80%20dados%20com%20NET,%20C#,%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled.png)
+![Untitled](Acesso%20à%20dados%20com%20NET%2C%20C%23%2C%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled.png)
 
 ---
 
 # UMA COISA QUE CONSEGUIMOS FAZER É RENOMEAR O NOME DE CADA PARAMETRO, CASO A GENTE QUEIRA
 
-![Untitled](Acesso%20a%CC%80%20dados%20com%20NET,%20C#,%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%201.png)
+![Untitled](Acesso%20à%20dados%20com%20NET%2C%20C%23%2C%20Dapper%20e%20SQL%20Server%207317555570484cceb98e71385128ae94/Untitled%201.png)
 
 E NA CLASSE TBM 
 
